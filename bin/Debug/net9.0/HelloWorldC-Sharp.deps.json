@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "HelloWorldC-Sharp/1.0.0": {
+        "runtime": {
+          "HelloWorldC-Sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloWorldC-Sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
